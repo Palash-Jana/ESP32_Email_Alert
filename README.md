@@ -47,4 +47,4 @@ This project reads temperature and humidity from a DHT11 sensor using an ESP32, 
 🌡 Temp: 28.5°C 💧 Humidity: 63.0%
 
 
-Good Luck
+Good Luck & Thankyou
